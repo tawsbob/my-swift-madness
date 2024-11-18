@@ -1,5 +1,5 @@
 
-# Using Swift Promises like JavaScript
+# Using Swift Promises like JavaScript (Promise.swift)
 
 ## Overview
 
